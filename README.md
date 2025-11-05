@@ -1,51 +1,39 @@
-# 👋 Hi, I'm Vivek Sharma
+# 🌐 Vivek Sharma — Portfolio
 
-> B.Tech CSE Student • Android & Web Developer • Learning Security • Curious Mind
-
----
-
-## 🚀 About Me
-- 🎓 Final year B.Tech CSE student at AKTU
-- 💻 Passionate about full-stack development & exploring Cybersecurity
-- 🌱 Currently improving Android development (Kotlin) and Backend learning
-- ✨ I love building useful, clean, and elegant products
+Welcome to my GitHub profile! This README serves as a **gateway to my personal portfolio**, where you can explore my projects, experience, and journey.
 
 ---
 
-## 🧠 Tech Stack
+## 🎯 Portfolio Link
 
-**Languages:** C, C++, Java, Kotlin, JavaScript, SQL
+👉 **Visit my full portfolio here:**
 
-**Development:** Android Studio, Jetpack Compose, React, Node.js (learning)
+**https://my-x-portfolio.netlify.app/**
 
-**Databases:** MongoDB, MySQL
-
-**Tools:** Git, GitHub, VS Code, Postman
+> If the link doesn't open, copy & paste it into your browser.
 
 ---
 
-## 🔥 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **MyNotes App** | Android app to store and manage personal notes | Kotlin, Room DB |
-| **Portfolio Website** | Personal website showcasing projects | HTML, CSS, JS |
-| **Secure Login System** | Local auth system with hashing | Node.js, MongoDB |
+## 📌 What You'll Find There
+- My **featured projects**
+- Skills & Tech Stack
+- Contact & Social Profiles
+- Clean & minimal UI
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Quick Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivek-Sharma00&show_icons=true&theme=tokyonight)
-
----
-
-## 📬 Contact
-
-**Email:** viveksharma08102004@gmail.com
-
-**LinkedIn:** *Add your link here*
+| Category | Highlights |
+|---------|-----------|
+| **Development** | Android (Kotlin), Web Dev, API Integration |
+| **Languages** | C, C++, Java, Kotlin, JavaScript, SQL |
+| **Databases** | MySQL, MongoDB |
+| **Tools** | Git, GitHub, VS Code, Postman |
 
 ---
 
-> "Keep building. Keep improving. Small steps make great progress."
+## 🤝 Connect
+If you visit the portfolio, you'll also find ways to contact me there.
+
+Thanks for stopping by! ✨
