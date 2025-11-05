@@ -6,11 +6,11 @@ Welcome to my GitHub profile! This README serves as a **gateway to my personal p
 
 ## 🎯 Portfolio Link
 
-👉 **Visit my full portfolio here:**
-
-**https://my-x-portfolio.netlify.app/**
-
-> If the link doesn't open, copy & paste it into your browser.
+<p align="left">
+  <a href="https://my-x-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-%23ff6b81?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
@@ -24,8 +24,9 @@ Welcome to my GitHub profile! This README serves as a **gateway to my personal p
 
 ## 🛠️ Quick Overview
 
-| Category | Highlights |
-|---------|-----------|
+You’ll find my **skills, projects, and contact details** in a clean layout on the portfolio itself. No extra clutter.
+
+---------|-----------|
 | **Development** | Android (Kotlin), Web Dev, API Integration |
 | **Languages** | C, C++, Java, Kotlin, JavaScript, SQL |
 | **Databases** | MySQL, MongoDB |
