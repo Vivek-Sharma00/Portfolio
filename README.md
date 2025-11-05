@@ -1,84 +1,65 @@
-Vivek Sharma - Personal Portfolio
+<h1 align="center">Hey 👋 I'm Vivek Sharma</h1>
+<p align="center">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Fsize%3D22%26center%3Dtrue%26vCenter%3Dtrue%26width%3D450%26lines%3DSoftware%2BDeveloper%3BB.Tech%2BCSE%2BStudent%2B%2540%2BAKTU%3BC%252B%252B%2B%257C%2BWeb%2B%257C%2BMongoDB%3BProblem%2BSolver+🚀" />
+</p>
 
-Welcome to the GitHub repository for my personal portfolio website. This site showcases my skills, projects, and professional background as a software developer.
+💫 About Me
 
-Visit the live site: https://your-github-username.github.io/your-repo-name/
+I'm a B.Tech Computer Science student (Graduating 2027) with a passion for building solutions from the ground up. I love diving into C/C++ projects, solving problems on LeetCode, and developing responsive web applications.
 
-(Note: Replace the link above with your actual deployed GitHub Pages URL)
+📌 Based in: Aligarh, Uttar Pradesh, India
 
-🚀 Features
+🧠 Currently Learning: Advanced Data Structures, Algorithms, and System Design.
 
-Sleek & Modern UI: A clean, dark-mode design built to be professional and easy to navigate.
+🎯 Goal: Apply my CS fundamentals to build scalable, real-world projects.
 
-Fully Responsive: Looks great on all devices, from mobile phones to desktops.
+🎧 Interests: Web Development, Problem Solving, System Thinking, Fitness, Anime.
 
-Dynamic Typing Effect: An engaging hero section that types out my various roles.
+🛠️ Tech Stack
 
-Smooth Scrolling: Easy navigation between sections.
+<p align="center">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,sql,python,html,css,mongodb,git,github,vscode" />
+</p>
 
-Clear Sections:
+🚀 My Projects
 
-About: Who I am and my passion for development.
+Project
 
-Skills: A toolkit of my technical abilities.
+Description
 
-Projects: A showcase of my best work with links to live demos and code.
+Tech Stack
 
-Contact: Quick links to get in touch.
+ExamConnect Platform
 
-🛠️ Technologies Used
+A real-time chat & resource sharing platform for students and admins.
 
-This portfolio is built with a minimal and efficient stack, ensuring fast load times and easy maintenance.
+HTML, CSS, MongoDB
 
-HTML5: For the core structure and content.
+Personal Portfolio
 
-Tailwind CSS: For all styling, utility-first classes, and responsive design.
+My professional website to showcase skills and projects.
 
-JavaScript (ES6+): For the dynamic typing effect and mobile menu toggle.
+HTML, CSS, JS
 
-📦 How to Use / Local Setup
+Links to the live demo and code are in my portfolio!
 
-To run this portfolio locally on your machine:
+📊 GitHub Stats
 
-Clone the repository:
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dvikkubro52%26theme%3Dtokyonight%26show_icons%3Dtrue%26hide_border%3Dtrue" height="160" />
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3Dvikkubro52%26theme%3Dtokyonight%26hide_border%3Dtrue" height="160" />
+</p>
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dvikkubro52%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" height="160" />
+</p>
 
-git clone [https://github.com/your-github-username/your-repo-name.git](https://github.com/your-github-username/your-repo-name.git)
+🌐 Connect With Me
 
+<p align="center">
+<a href="mailto:viveksharma08102004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/vivek-sharma-8088a9273"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite"></a>
+<a href="https://github.com/vikkubro52"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.google.com/search?q=https://leetcode.com/u/Vivek%2520Sharma52/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3Dleetcode%26logoColor%3Dblack"></a>
+</p>
 
-
-Navigate to the directory:
-
-cd your-repo-name
-
-
-
-Open the file:
-Simply open the index.html file in your favorite web browser.
-
-🚀 Deployment
-
-This site is perfectly set up to be deployed for free using GitHub Pages.
-
-Make sure your main HTML file is named index.html.
-
-Go to your repository's Settings tab.
-
-In the left sidebar, click on Pages.
-
-Under "Build and deployment," select the Source as Deploy from a branch.
-
-Select your main branch (e.g., main or master) and the /root folder.
-
-Click Save. Your site will be live in a few minutes!
-
-🔗 Connect with Me
-
-LinkedIn: https://linkedin.com/in/vivek-sharma-8088a9273
-
-GitHub: https://github.com/vikkubro52
-
-LeetCode: 
-
-$$https://leetcode.com/u/Vivek Sharma52/$$
-
-(https://leetcode.com/u/Vivek Sharma52/)
+<p align="center"><b>✨ Clean Code. Problem Solving. Continuous Learning. ✨</b></p>
