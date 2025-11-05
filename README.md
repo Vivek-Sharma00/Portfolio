@@ -22,18 +22,6 @@ Welcome to my GitHub profile! This README serves as a **gateway to my personal p
 
 ---
 
-## 🛠️ Quick Overview
-
-You’ll find my **skills, projects, and contact details** in a clean layout on the portfolio itself. No extra clutter.
-
----------|-----------|
-| **Development** | Android (Kotlin), Web Dev, API Integration |
-| **Languages** | C, C++, Java, Kotlin, JavaScript, SQL |
-| **Databases** | MySQL, MongoDB |
-| **Tools** | Git, GitHub, VS Code, Postman |
-
----
-
 ## 🤝 Connect
 If you visit the portfolio, you'll also find ways to contact me there.
 
